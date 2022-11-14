@@ -4,3 +4,16 @@
     font-weight: bold;
     margin-top: 1em;
 }
+.club-cards__item-all {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid;
+    width: 30%;
+    margin: 25px;
+    font-size: 20px;
+}
+.club-cards {
+    display: flex;
+    flex-direction: row;
+}
